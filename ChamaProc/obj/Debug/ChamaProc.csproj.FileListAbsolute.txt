@@ -1,0 +1,10 @@
+C:\Users\Ren_S\source\repos\TutorialProc\ChamaProc\bin\Debug\ChamaProc.exe.config
+C:\Users\Ren_S\source\repos\TutorialProc\ChamaProc\bin\Debug\ChamaProc.exe
+C:\Users\Ren_S\source\repos\TutorialProc\ChamaProc\bin\Debug\ChamaProc.pdb
+C:\Users\Ren_S\source\repos\TutorialProc\ChamaProc\obj\Debug\ChamaProc.csproj.AssemblyReference.cache
+C:\Users\Ren_S\source\repos\TutorialProc\ChamaProc\obj\Debug\ChamaProc.Form1.resources
+C:\Users\Ren_S\source\repos\TutorialProc\ChamaProc\obj\Debug\ChamaProc.Properties.Resources.resources
+C:\Users\Ren_S\source\repos\TutorialProc\ChamaProc\obj\Debug\ChamaProc.csproj.GenerateResource.cache
+C:\Users\Ren_S\source\repos\TutorialProc\ChamaProc\obj\Debug\ChamaProc.csproj.CoreCompileInputs.cache
+C:\Users\Ren_S\source\repos\TutorialProc\ChamaProc\obj\Debug\ChamaProc.exe
+C:\Users\Ren_S\source\repos\TutorialProc\ChamaProc\obj\Debug\ChamaProc.pdb
